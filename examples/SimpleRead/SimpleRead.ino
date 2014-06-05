@@ -1,6 +1,7 @@
 /*
   SimpleRead
   Read temperature sensor and print over the serial port in Celsius degrees.
+  Sensor Model: TMP36
  
   Connections:
     sensor output to pin A0 of Arduino
